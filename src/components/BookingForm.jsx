@@ -52,7 +52,7 @@ export default function BookingForm({ selectedService }) {
             <p style={{ fontSize: '1.1rem', lineHeight: '1.7', color: 'var(--text-secondary)', marginBottom: '2rem' }}>
               Tell us about your business and your goals. Let's explore how VS Media can help you grow.
             </p>
-
+          </div>
            
           {/* Right Lead Form */}
           <div className="booking-form-card">
