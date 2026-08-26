@@ -24,8 +24,6 @@ export default function Hero({ onOpenBooking }) {
             <button onClick={onOpenBooking} className="btn btn-primary btn-lg">
               Book a Call
             </button>
-            
-            
           </div>
 
           <div className="hero-tagline">
